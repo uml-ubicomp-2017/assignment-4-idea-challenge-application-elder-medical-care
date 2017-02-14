@@ -1,5 +1,5 @@
 # assignment-4-idea-challenge-application-elder-medical-care
-Name: Jingchuan Zhou
+Name: Jingchuan Zhou </br>
 Student ID: 01656348
 Email address: Jingchuan_zhou@student.uml.edu
 
